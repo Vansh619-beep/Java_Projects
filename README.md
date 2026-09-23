@@ -1,2 +1,3 @@
 # Java_Projects
-Some small Java Projects 
+Some minor Java Projects performed during lecture hours and offline practice.
+
